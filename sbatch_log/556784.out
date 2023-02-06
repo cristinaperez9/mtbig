@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "test.py", line 2, in <module>
+    print(torch.cuda.isavailable())
+AttributeError: module 'torch.cuda' has no attribute 'isavailable'
